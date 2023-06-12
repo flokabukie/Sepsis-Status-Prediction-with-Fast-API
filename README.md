@@ -56,16 +56,10 @@ https://medium.com/@florentia.teye/sepsis-status-prediction-with-fast-api-bdb04b
  
  ## Author
 
-**Name:** Florentia Teye
+ ![image](signature.png)
 
-**GitHub:** [https://github.com/flokabukie)
 
-**LinkedIn:** [Florentia Teye](https://www.linkedin.com/in/florentia-teye-75270a191/)
-
-**Email:** florentiateye@gmail.com
-florentia.teye@azubiafrica.org
-
-Florentia Teye is a Data Analytics Professional with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
+Florentia Teye is a Data Scientist with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
 
 Here is the link to the deployed app
 https://huggingface.co/spaces/flokabukie/Fast_API
