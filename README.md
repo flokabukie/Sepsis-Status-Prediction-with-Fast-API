@@ -1,4 +1,4 @@
-# **Fast-API**
+# **SEPSIS STATUS PREDICTION WITH FAST-API**
 ### Developing a machine learning API with fastAPI
 
 
@@ -10,7 +10,7 @@ Welcome to the Machine Learning API project! This repository showcases the devel
 
 **Project Overview**
 
-The goal of this project is to provide an efficient and user-friendly interface for leveraging machine learning models. By creating a robust API, we enable seamless integration of our models into various applications, making it easy for developers to consume the power of machine learning.
+The goal of this project is to provide an efficient and user-friendly interface for leveraging  Machine Learning Model to Predict Sepsis Status. 
 
 Machine learning allows the user to feed a computer algorithm an immense amount of data and have the computer analyze and make data-driven recommendations and decisions based on only the input data. In most of the situations we want to have a machine learning system to make predictions, so we have several categories of machine learning tasks depending on the type of prediction needed: Classification, Regression, Clustering, Generation, etc.
 
