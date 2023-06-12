@@ -2,7 +2,7 @@
 ### Developing a machine learning API with fastAPI
 
 
-![image](api1.png)
+![image](api6.png)
 
 
 
@@ -18,3 +18,21 @@ Classification is the task whose goal is the prediction of the label of the clas
 
 In machine learning, there are learning paradigms that relate to one aspect of the dataset: the presence of the label to be predicted. Supervised Learning is the paradigm of learning that is applied when the dataset has the label variables to be predicted, known as y variables. Unsupervised Learning is the paradigm of learning that is applied when the dataset has not the label variables to be predicted. Self-supervised Learning is the paradigm of learning that is applied when part of the X dataset is considere as the label to be predicted (e.g., the Dataset is made of texts and the model try to predict the next word of each sentence).
 
+Find below the link to a detailed article on the twitter sentiment analysis.
+https://medium.com/@florentia.teye/twitter-sentiment-analysis-c5a649219dd9
+ 
+ ## Author
+
+**Name:** Florentia Teye
+
+**GitHub:** [https://github.com/flokabukie)
+
+**LinkedIn:** [Florentia Teye](https://www.linkedin.com/in/florentia-teye-75270a191/)
+
+**Email:** florentiateye@gmail.com
+florentia.teye@azubiafrica.org
+
+Florentia Teye is a Data Analytics Professional with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
+
+Here is the link to the deployed app
+https://huggingface.co/spaces/flokabukie/Twitter-gradio-sentiment-analysis-app
