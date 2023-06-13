@@ -61,5 +61,4 @@ https://medium.com/@florentia.teye/sepsis-status-prediction-with-fast-api-bdb04b
 
 Florentia Teye is a Data Scientist with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
 
-Here is the link to the deployed app
-https://huggingface.co/spaces/flokabukie/Fast_API
+
