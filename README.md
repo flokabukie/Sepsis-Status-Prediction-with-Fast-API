@@ -55,6 +55,15 @@ Find below the link to a detailed article on the Sepsis Status Prediction with F
 https://medium.com/@florentia.teye/sepsis-status-prediction-with-fast-api-bdb04bf01c76
  
  ## Author
+ Name: Florentia Teye
+
+GitHub: [https://github.com/flokabukie)
+
+LinkedIn: Florentia Teye
+
+Email: florentiateye@gmail.com florentia.teye@azubiafrica.org
+
+Here is the link to the deployed app: https://huggingface.co/spaces/flokabukie/Sepsis-status-prediction-fast-api/tree/main
 
  Name: Florentia Teye
 
