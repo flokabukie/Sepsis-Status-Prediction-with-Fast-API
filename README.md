@@ -43,8 +43,6 @@ Install the required dependencies:
 Start the FastAPI development server:
 ![image](api5.png)
 
-Visit the Swagger UI documentation at http://localhost:8000/docs to explore and interact with the API.
-
 Customize the API by adding your own machine learning models, business logic, and data preprocessing code to the appropriate modules.
 
 Deploy the API to your preferred platform for production use.
