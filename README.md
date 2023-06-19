@@ -53,28 +53,18 @@ Deploy the API to your preferred platform for production use.
 
 Find below the link to a detailed article on the Sepsis Status Prediction with Fast API.
 https://medium.com/@florentia.teye/sepsis-status-prediction-with-fast-api-bdb04bf01c76
+
+Here is the link to the deployed app: https://huggingface.co/spaces/flokabukie/Sepsis-status-prediction-fast-api/tree/main
  
  ## Author
  Name: Florentia Teye
 
 GitHub: [https://github.com/flokabukie)
 
-LinkedIn: Florentia Teye
+LinkedIn: https://www.linkedin.com/in/florentia-teye-75270a191/
 
 Email: florentiateye@gmail.com florentia.teye@azubiafrica.org
 
-Here is the link to the deployed app: https://huggingface.co/spaces/flokabukie/Sepsis-status-prediction-fast-api/tree/main
-
- Name: Florentia Teye
-
-GitHub: [https://github.com/flokabukie)
-
-LinkedIn: Florentia Teye
-
-Email: florentiateye@gmail.com florentia.teye@azubiafrica.org
-
-
-Here is the link to the deployed app: https://huggingface.co/spaces/flokabukie/Sepsis-status-prediction-fast-api/tree/main
 
  ![image](signature.png)
 
