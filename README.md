@@ -52,21 +52,23 @@ Deploy the API to your preferred platform for production use.
 Find below the link to a detailed article on the Sepsis Status Prediction with Fast API.
 https://medium.com/@florentia.teye/sepsis-status-prediction-with-fast-api-bdb04bf01c76
 
-Here is the link to the deployed app: https://huggingface.co/spaces/flokabukie/Sepsis-status-prediction-fast-api/tree/main
+Here is the link to the deployed app: [![Alt text](image-1.png)](https://huggingface.co/spaces/flokabukie/Sepsis-status-prediction-fast-api?logs=build)
+ 
  
  ## Author
  Name: Florentia Teye
+ Florentia Teye is a Data Scientist with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
 
-GitHub: [https://github.com/flokabukie)
 
-LinkedIn: https://www.linkedin.com/in/florentia-teye-75270a191/
+LinkedIn: 
+
+[!![Alt text](image.png)](https://www.linkedin.com/in/florentia-teye-75270a191/)
+
+
 
 Email: florentiateye@gmail.com florentia.teye@azubiafrica.org
 
 
  ![image](signature.png)
-
-
-Florentia Teye is a Data Scientist with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
 
 
