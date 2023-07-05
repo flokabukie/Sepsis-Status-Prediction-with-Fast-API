@@ -68,7 +68,7 @@ LinkedIn:
 
 Email: florentiateye@gmail.com
 
- florentia.teye@azubiafrica.org
+ 
 
 
  ![image](signature.png)
